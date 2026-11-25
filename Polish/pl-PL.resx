@@ -136,59 +136,59 @@ The file is looked up beside this language file first, then under the game's Con
   <value>polski (Polska)</value>
 </data>
 <data name="MainMenu.FooterNet" xml:space="preserve">
-  <value>W-Y COLONY NET</value>
+  <value>W-Y SIEĆ KOLONII</value>
   <comment>W-Y COLONY NET</comment>
 </data>
 <data name="MainMenu.StatusIdle" xml:space="preserve">
-  <value>LINK IDLE</value>
+  <value>POŁĄCZENIE BEZCZYNNE</value>
   <comment>LINK IDLE</comment>
 </data>
 <data name="MainMenu.JoinTitle" xml:space="preserve">
-  <value>JOIN GAME</value>
+  <value>DOŁĄCZ DO GRY</value>
   <comment>JOIN GAME</comment>
 </data>
 <data name="MainMenu.AddressLabel" xml:space="preserve">
-  <value>ADDRESS</value>
+  <value>ADRES</value>
   <comment>ADDRESS</comment>
 </data>
 <data name="MainMenu.OperativeLabel" xml:space="preserve">
-  <value>OPERATIVE</value>
+  <value>OPERACYJNY</value>
   <comment>OPERATIVE</comment>
 </data>
 <data name="MainMenu.CancelLabel" xml:space="preserve">
-  <value>CANCEL</value>
+  <value>ANULUJ</value>
   <comment>CANCEL</comment>
 </data>
 <data name="MainMenu.ConnectLabel" xml:space="preserve">
-  <value>CONNECT</value>
+  <value>POŁĄCZ</value>
   <comment>CONNECT</comment>
 </data>
 <data name="MainMenu.JoinRefusalLine" xml:space="preserve">
-  <value>LINK REFUSED // CHECK ADDRESS</value>
+  <value>POŁĄCZENIE ODRZUCONO // SPRAWDŹ ADRES</value>
   <comment>LINK REFUSED // CHECK ADDRESS</comment>
 </data>
 <data name="MainMenu.SurveyRefusalLine" xml:space="preserve">
-  <value>SURVEY OFFLINE // NO MAP DATA</value>
+  <value>WGLĄD NIEDOSTĘPNY // BRAK DANYCH MAPY</value>
   <comment>SURVEY OFFLINE // NO MAP DATA</comment>
 </data>
 <data name="MainMenu.PickerTitle" xml:space="preserve">
-  <value>PREVIEW MAP</value>
+  <value>PODGLĄD MAPY</value>
   <comment>PREVIEW MAP</comment>
 </data>
 <data name="MainMenu.PickerSubLine" xml:space="preserve">
-  <value>// SELECT A COLONY TO SURVEY //</value>
+  <value>// WYBIERZ KOLONIĘ DO WGLĄDU //</value>
   <comment>// SELECT A COLONY TO SURVEY //</comment>
 </data>
 <data name="MainMenu.PickerLoadedTag" xml:space="preserve">
-  <value>LOADED</value>
+  <value>ZAŁADOWANO</value>
   <comment>LOADED</comment>
 </data>
 <data name="MainMenu.PickerNoRecord" xml:space="preserve">
-  <value>~NO SURVEY RECORD</value>
+  <value>~BRAK ZAPISU WGLĄDU</value>
   <comment>~NO SURVEY RECORD</comment>
 </data>
 <data name="MainMenu.MainSubtitle" xml:space="preserve">
-  <value>MAIN MENU</value>
+  <value>GŁOWNE MENU</value>
   <comment>MAIN MENU</comment>
 </data>
 <data name="MainMenu.SystemSubtitle" xml:space="preserve">
@@ -196,91 +196,91 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>SYSTEM MENU</comment>
 </data>
 <data name="MainMenu.SystemStatusIdle" xml:space="preserve">
-  <value>LINK ESTABLISHED // OPERATIVE IN FIELD</value>
+  <value>POŁĄCZENIE NAWIĄZANE // OPERACYJNY W TERENIE</value>
   <comment>LINK ESTABLISHED // OPERATIVE IN FIELD</comment>
 </data>
 <data name="MainMenu.DisconnectTitle" xml:space="preserve">
-  <value>DISCONNECT</value>
+  <value>ROZŁĄCZONO</value>
   <comment>DISCONNECT</comment>
 </data>
 <data name="MainMenu.DisconnectLine" xml:space="preserve">
-  <value>LEAVE THE SERVER AND RETURN TO THE MENU?</value>
+  <value>OPUŚCIĆ SERWER I POWRÓCIĆ DO MENU?</value>
   <comment>LEAVE THE SERVER AND RETURN TO THE MENU?</comment>
 </data>
 <data name="MainMenu.DisconnectConfirmLabel" xml:space="preserve">
-  <value>DISCONNECT</value>
+  <value>ROZŁĄCZ</value>
   <comment>DISCONNECT</comment>
 </data>
 <data name="MainMenu.QuitTitle" xml:space="preserve">
-  <value>QUIT GAME</value>
+  <value>OPUŚĆ GRĘ</value>
   <comment>QUIT GAME</comment>
 </data>
 <data name="MainMenu.QuitLine" xml:space="preserve">
-  <value>POWER DOWN AND EXIT TO DESKTOP?</value>
+  <value>WYŁĄCZYĆ ZASILANIE I WYJŚĆ DO PULPITU?</value>
   <comment>POWER DOWN AND EXIT TO DESKTOP?</comment>
 </data>
 <data name="MainMenu.QuitConfirmLabel" xml:space="preserve">
-  <value>QUIT</value>
+  <value>WYJDŹ</value>
   <comment>QUIT</comment>
 </data>
 <data name="MainMenu.MismatchTitle" xml:space="preserve">
-  <value>VERSION MISMATCH</value>
+  <value>NIEZGODNA WERSJA</value>
   <comment>VERSION MISMATCH</comment>
 </data>
 <data name="MainMenu.MismatchLine" xml:space="preserve">
-  <value>THIS GAME VERSION IS OUT OF DATE. EITHER THE SERVER OR THE CLIENT NEEDS TO UPDATE TO A MATCHING VERSION.</value>
+  <value>TA WERSJA GRY JEST NIEAKTUALNA. SERWER LUB KLIENT WYMAGA AKTUALIZACJI DO ZGODNEJ WERSJI.</value>
   <comment>THIS GAME VERSION IS OUT OF DATE. EITHER THE SERVER OR THE CLIENT NEEDS TO UPDATE TO A MATCHING VERSION.</comment>
 </data>
 <data name="MainMenu.MismatchLocalBuild" xml:space="preserve">
-  <value>LOCAL BUILD // {BUILD}</value>
+  <value>LOKALNY BUILD // {BUILD}</value>
   <comment>LOCAL BUILD // {BUILD}</comment>
 </data>
 <data name="MainMenu.MismatchServerBuild" xml:space="preserve">
-  <value>SERVER BUILD // v{BUILD}</value>
+  <value>BUILD SERWERA // v{BUILD}</value>
   <comment>SERVER BUILD // v{BUILD}</comment>
 </data>
 <data name="MainMenu.ContentMismatchTitle" xml:space="preserve">
-  <value>CONTENT MISMATCH</value>
+  <value>NIEZGODNOŚĆ TREŚCI</value>
   <comment>CONTENT MISMATCH</comment>
 </data>
 <data name="MainMenu.ContentMismatchLine" xml:space="preserve">
-  <value>YOUR GAME CONTENT DIFFERS FROM THE SERVER. CHECK FOR AN UPDATE OR REMOVE MODIFIED CONTENT.</value>
+  <value>ZAWARTOŚĆ GRY RÓŻNI SIĘ OD SERWERA. SPRAWDŹ DOSTĘPNOŚĆ AKTUALIZACJI LUB USUŃ ZMODYFIKOWANE ELEMENTY.</value>
   <comment>YOUR GAME CONTENT DIFFERS FROM THE SERVER. CHECK FOR AN UPDATE OR REMOVE MODIFIED CONTENT.</comment>
 </data>
 <data name="MainMenu.BehindLine" xml:space="preserve">
-  <value>YOUR GAME IS BEHIND THE SERVER. UPDATE THE GAME, THEN JOIN AGAIN.</value>
+  <value>WERSJA GRY JEST STARSZA OD SERWERA. ZAKTUALIZUJ GRĘ, PO CZYM DOŁĄCZ PONOWNIE.</value>
   <comment>YOUR GAME IS BEHIND THE SERVER. UPDATE THE GAME, THEN JOIN AGAIN.</comment>
 </data>
 <data name="MainMenu.AheadLine" xml:space="preserve">
-  <value>YOUR GAME IS AHEAD OF THE SERVER. WAIT FOR THE SERVER TO RESTART WITH THE UPDATE, THEN JOIN AGAIN.</value>
+  <value>WERSJA GRY JEST NOWSZA OD SERWERA. POCZEKAJ PÓKI SERWER SIĘ ZRESTARTUJE, PO CZYM DOŁĄCZ PONOWNIE.</value>
   <comment>YOUR GAME IS AHEAD OF THE SERVER. WAIT FOR THE SERVER TO RESTART WITH THE UPDATE, THEN JOIN AGAIN.</comment>
 </data>
 <data name="MainMenu.AhwooRequiredTitle" xml:space="preserve">
-  <value>AHWOO ACCOUNT REQUIRED</value>
+  <value>WYMAGANE KONTO AHWOO</value>
   <comment>AHWOO ACCOUNT REQUIRED</comment>
 </data>
 <data name="MainMenu.AhwooRequiredLine" xml:space="preserve">
-  <value>THIS SERVER REQUIRES AN AHWOO ACCOUNT. SIGN IN TO THE AHWOO CLIENT AND RECONNECT.</value>
+  <value>TEN SERWER WYMAGA KONTA AHWOO. ZALOGUJ SIĘ DO KLIENTU AHWOO I DOŁĄCZ PONOWNIE.</value>
   <comment>THIS SERVER REQUIRES AN AHWOO ACCOUNT. SIGN IN TO THE AHWOO CLIENT AND RECONNECT.</comment>
 </data>
 <data name="MainMenu.AhwooTooNewTitle" xml:space="preserve">
-  <value>ACCOUNT TOO NEW</value>
+  <value>KONTO JEST ZBYT NOWE</value>
   <comment>ACCOUNT TOO NEW</comment>
 </data>
 <data name="MainMenu.AhwooTooNewLine" xml:space="preserve">
-  <value>THIS SERVER IS LOCKED TO ESTABLISHED AHWOO ACCOUNTS FOR NOW. YOUR ACCOUNT IS TOO NEW TO JOIN. TRY AGAIN LATER.</value>
+  <value>TEN SERWER JEST CHWILOWO DOSTĘPNY WYŁĄCZNIE DO WIARYGODNYCH KONT AHWOO. TWOJE KONTO JEST ZA NOWE, ABY DOŁĄCZYĆ. SPRÓBUJ PÓŹNIEJ.</value>
   <comment>THIS SERVER IS LOCKED TO ESTABLISHED AHWOO ACCOUNTS FOR NOW. YOUR ACCOUNT IS TOO NEW TO JOIN. TRY AGAIN LATER.</comment>
 </data>
 <data name="MainMenu.VpnRefusedTitle" xml:space="preserve">
-  <value>VPN DETECTED</value>
+  <value>WYKRYTO VPN</value>
   <comment>VPN DETECTED</comment>
 </data>
 <data name="MainMenu.VpnRefusedLine" xml:space="preserve">
-  <value>THIS SERVER DOES NOT ACCEPT VPN, PROXY OR TOR CONNECTIONS. DISCONNECT YOUR VPN AND RECONNECT, OR ASK AN ADMIN TO BE ALLOWED.</value>
+  <value>TEN SERWER NIE POZWALA NA VPN, PROXY CZY POŁĄCZENIA PRZEZ TOR. WYŁĄCZ VPN I DOŁĄCZ PONOWNIE, LUB POPROŚ ADMINISTRATORA O ZGODĘ.</value>
   <comment>THIS SERVER DOES NOT ACCEPT VPN, PROXY OR TOR CONNECTIONS. DISCONNECT YOUR VPN AND RECONNECT, OR ASK AN ADMIN TO BE ALLOWED.</comment>
 </data>
 <data name="MainMenu.CloseLabel" xml:space="preserve">
-  <value>CLOSE</value>
+  <value>ZAMKNIJ</value>
   <comment>CLOSE</comment>
 </data>
 <data name="MainMenu.DiscordLabel" xml:space="preserve">
@@ -288,15 +288,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>DISCORD</comment>
 </data>
 <data name="MainMenu.DiscordStatusLine" xml:space="preserve">
-  <value>DISCORD // OPENING INVITE LINK</value>
+  <value>DISCORD // OTWIERANIE LINKU ZAPROSZENIA</value>
   <comment>DISCORD // OPENING INVITE LINK</comment>
 </data>
 <data name="MainMenu.ForumsLabel" xml:space="preserve">
-  <value>FORUMS</value>
+  <value>FORA</value>
   <comment>FORUMS</comment>
 </data>
 <data name="MainMenu.ForumsStatusLine" xml:space="preserve">
-  <value>FORUMS // OPENING AHWOO FORUMS</value>
+  <value>FORA // OTWIERA FORA AHWOO</value>
   <comment>FORUMS // OPENING AHWOO FORUMS</comment>
 </data>
 <data name="MainMenu.Row.Codex.Label" xml:space="preserve">
@@ -304,131 +304,131 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>CODEX</comment>
 </data>
 <data name="MainMenu.Row.Codex.Status" xml:space="preserve">
-  <value>CODEX // OPENING FIELD REFERENCE</value>
+  <value>CODEX // OTWIERANIE ODNIESIENIA DO POLA</value>
   <comment>CODEX // OPENING FIELD REFERENCE</comment>
 </data>
 <data name="MainMenu.AhwooPrefix" xml:space="preserve">
-  <value>AHWOO LINK // </value>
+  <value>POŁĄCZENIE Z AHWOO // </value>
   <comment>AHWOO LINK // </comment>
 </data>
 <data name="MainMenu.AhwooActive" xml:space="preserve">
-  <value>ACTIVE</value>
+  <value>AKTYWNY</value>
   <comment>ACTIVE</comment>
 </data>
 <data name="MainMenu.AhwooNotDetected" xml:space="preserve">
-  <value>NOT DETECTED</value>
+  <value>NIE WYKRYTO</value>
   <comment>NOT DETECTED</comment>
 </data>
 <data name="MainMenu.AhwooOfflineMode" xml:space="preserve">
-  <value>OFFLINE MODE</value>
+  <value>TRYB OFFLINE</value>
   <comment>OFFLINE MODE</comment>
 </data>
 <data name="MainMenu.AhwooSignedOut" xml:space="preserve">
-  <value>SIGNED OUT</value>
+  <value>WYLOGOWANO</value>
   <comment>SIGNED OUT</comment>
 </data>
 <data name="MainMenu.AhwooNoResponse" xml:space="preserve">
-  <value>NO RESPONSE</value>
+  <value>BRAK ODPOWIEDZI</value>
   <comment>NO RESPONSE</comment>
 </data>
 <data name="MainMenu.Row.CharacterSetup.Label" xml:space="preserve">
-  <value>CHARACTER SETUP</value>
+  <value>KONFIGURACJA POSTACI</value>
   <comment>CHARACTER SETUP</comment>
 </data>
 <data name="MainMenu.Row.PreviewMap.Label" xml:space="preserve">
-  <value>PREVIEW MAP</value>
+  <value>WGLĄD MAPY</value>
   <comment>PREVIEW MAP</comment>
 </data>
 <data name="MainMenu.Row.Settings.Label" xml:space="preserve">
-  <value>SETTINGS</value>
+  <value>USTAWIENIA</value>
   <comment>SETTINGS</comment>
 </data>
 <data name="MainMenu.Row.JoinGame.Label" xml:space="preserve">
-  <value>JOIN GAME</value>
+  <value>DOŁĄCZ DO GRY</value>
   <comment>JOIN GAME</comment>
 </data>
 <data name="MainMenu.Row.QuitGame.Label" xml:space="preserve">
-  <value>QUIT GAME</value>
+  <value>OPUŚĆ GRĘ</value>
   <comment>QUIT GAME</comment>
 </data>
 <data name="MainMenu.Row.CharacterSetup.Caption" xml:space="preserve">
-  <value>IDENTITY // APPEARANCE</value>
+  <value>TOŻSAMOŚĆ // WYGLĄD</value>
   <comment>IDENTITY // APPEARANCE</comment>
 </data>
 <data name="MainMenu.Row.PreviewMap.Caption" xml:space="preserve">
-  <value>COLONY SURVEY MAP</value>
+  <value>WGLĄD MAPY KOLONII</value>
   <comment>COLONY SURVEY MAP</comment>
 </data>
 <data name="MainMenu.Row.Settings.Caption" xml:space="preserve">
-  <value>DISPLAY // AUDIO // CONTROLS</value>
+  <value>WYŚWIETLACZ // AUDIO // STEROWANIE</value>
   <comment>DISPLAY // AUDIO // CONTROLS</comment>
 </data>
 <data name="MainMenu.Row.JoinGame.Caption" xml:space="preserve">
-  <value>CONNECT TO SERVER</value>
+  <value>POŁĄCZ SIĘ Z SERWEREM</value>
   <comment>CONNECT TO SERVER</comment>
 </data>
 <data name="MainMenu.Row.QuitGame.Caption" xml:space="preserve">
-  <value>EXIT TO DESKTOP</value>
+  <value>WYJDŹ NA PULPIT</value>
   <comment>EXIT TO DESKTOP</comment>
 </data>
 <data name="MainMenu.Row.CharacterSetup.Status" xml:space="preserve">
-  <value>CHARACTER SETUP // OPENING RECORD</value>
+  <value>KONFIGURACJA POSTACI // OTWIERANIE ZAPISU</value>
   <comment>CHARACTER SETUP // OPENING RECORD</comment>
 </data>
 <data name="MainMenu.Row.PreviewMap.Status" xml:space="preserve">
-  <value>PREVIEW MAP // COLONY SURVEY</value>
+  <value>POGLĄD MAPY // WGLĄD DO KOLONII</value>
   <comment>PREVIEW MAP // COLONY SURVEY</comment>
 </data>
 <data name="MainMenu.Row.Settings.Status" xml:space="preserve">
-  <value>SETTINGS // DISPLAY / AUDIO / CONTROLS</value>
+  <value>USTAWIENIA // WYŚWIETLACZ / AUDIO / STERWANIE</value>
   <comment>SETTINGS // DISPLAY / AUDIO / CONTROLS</comment>
 </data>
 <data name="MainMenu.Row.JoinGame.Status" xml:space="preserve">
-  <value>JOIN GAME // AWAITING ADDRESS</value>
+  <value>DOŁĄCZ DO GRY // OCZEKIWANIE ADRESU</value>
   <comment>JOIN GAME // AWAITING ADDRESS</comment>
 </data>
 <data name="MainMenu.Row.QuitGame.Status" xml:space="preserve">
-  <value>QUIT GAME // POWERING DOWN</value>
+  <value>OPUSZCZANIE GRY // WYŁĄCZANIE</value>
   <comment>QUIT GAME // POWERING DOWN</comment>
 </data>
 <data name="MainMenu.SystemRow.Resume.Label" xml:space="preserve">
-  <value>RESUME</value>
+  <value>KONTYNUUJ</value>
   <comment>RESUME</comment>
 </data>
 <data name="MainMenu.SystemRow.Settings.Label" xml:space="preserve">
-  <value>SETTINGS</value>
+  <value>USTAWIENIA</value>
   <comment>SETTINGS</comment>
 </data>
 <data name="MainMenu.SystemRow.Disconnect.Label" xml:space="preserve">
-  <value>DISCONNECT</value>
+  <value>ROZŁĄCZ SIĘ</value>
   <comment>DISCONNECT</comment>
 </data>
 <data name="MainMenu.SystemRow.Resume.Caption" xml:space="preserve">
-  <value>RETURN TO THE FIELD</value>
+  <value>POWRÓT DO AKCJI</value>
   <comment>RETURN TO THE FIELD</comment>
 </data>
 <data name="MainMenu.SystemRow.Settings.Caption" xml:space="preserve">
-  <value>DISPLAY // AUDIO // CONTROLS</value>
+  <value>WYŚWIETLACZ // AUDIO // STEROWANIE</value>
   <comment>DISPLAY // AUDIO // CONTROLS</comment>
 </data>
 <data name="MainMenu.SystemRow.Disconnect.Caption" xml:space="preserve">
-  <value>LEAVE THE SERVER</value>
+  <value>OPUŚĆ SERWER</value>
   <comment>LEAVE THE SERVER</comment>
 </data>
 <data name="MainMenu.SystemRow.Resume.Status" xml:space="preserve">
-  <value>RESUMING</value>
+  <value>WZNAWIANIE</value>
   <comment>RESUMING</comment>
 </data>
 <data name="MainMenu.SystemRow.Settings.Status" xml:space="preserve">
-  <value>SETTINGS // DISPLAY / AUDIO / CONTROLS</value>
+  <value>USTAWIENIA // WYŚWIETLACZ / AUDIO / STEROWANIE</value>
   <comment>SETTINGS // DISPLAY / AUDIO / CONTROLS</comment>
 </data>
 <data name="MainMenu.SystemRow.Disconnect.Status" xml:space="preserve">
-  <value>DISCONNECT // CLOSING LINK</value>
+  <value>ROZŁĄCZANIE // ZAMYKANIE POŁĄCZENIA</value>
   <comment>DISCONNECT // CLOSING LINK</comment>
 </data>
 <data name="Enum.Tonemapper.Uncharted" xml:space="preserve">
-  <value>Uncharted</value>
+  <value>Niezbadane</value>
   <comment>Uncharted</comment>
 </data>
 <data name="Enum.Tonemapper.Agx" xml:space="preserve">
@@ -436,27 +436,27 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Agx</comment>
 </data>
 <data name="Enum.Tonemapper.AcesFitted" xml:space="preserve">
-  <value>Aces Fitted</value>
+  <value>Dopasowane Asy</value>
   <comment>Aces Fitted</comment>
 </data>
 <data name="Enum.Tonemapper.Aces" xml:space="preserve">
-  <value>Aces</value>
+  <value>Asy</value>
   <comment>Aces</comment>
 </data>
 <data name="Enum.Tonemapper.Filmic" xml:space="preserve">
-  <value>Filmic</value>
+  <value>Filmowy</value>
   <comment>Filmic</comment>
 </data>
 <data name="Enum.Tonemapper.RomBinDaHouse" xml:space="preserve">
-  <value>Rom Bin Da House</value>
+  <value>Okra Da My Budę</value>
   <comment>Rom Bin Da House</comment>
 </data>
 <data name="Enum.Tonemapper.ReinhardSimple" xml:space="preserve">
-  <value>Reinhard Simple</value>
+  <value>Reinhart Prosty</value>
   <comment>Reinhard Simple</comment>
 </data>
 <data name="Enum.Tonemapper.ReinhardLuma" xml:space="preserve">
-  <value>Reinhard Luma</value>
+  <value>Reinhart Luma</value>
   <comment>Reinhard Luma</comment>
 </data>
 <data name="Enum.Tonemapper.GranTurismo" xml:space="preserve">
@@ -464,75 +464,75 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Gran Turismo</comment>
 </data>
 <data name="Enum.Tonemapper.Linear" xml:space="preserve">
-  <value>Linear</value>
+  <value>Liniowy</value>
   <comment>Linear</comment>
 </data>
 <data name="Enum.Tonemapper.Hable" xml:space="preserve">
-  <value>Hable</value>
+  <value>Mówiący</value>
   <comment>Hable</comment>
 </data>
 <data name="Enum.Tonemapper.LinearSoft" xml:space="preserve">
-  <value>Linear Soft</value>
+  <value>Liniowy miękki</value>
   <comment>Linear Soft</comment>
 </data>
 <data name="Enum.DisplayMode.Windowed" xml:space="preserve">
-  <value>Windowed</value>
+  <value>Okienkowy</value>
   <comment>Windowed</comment>
 </data>
 <data name="Enum.DisplayMode.Borderless" xml:space="preserve">
-  <value>Borderless</value>
+  <value>Bezramkowy</value>
   <comment>Borderless</comment>
 </data>
 <data name="Enum.DisplayMode.Fullscreen" xml:space="preserve">
-  <value>Fullscreen</value>
+  <value>Pełnoekranowy</value>
   <comment>Fullscreen</comment>
 </data>
 <data name="Enum.FogQuality.High" xml:space="preserve">
-  <value>High</value>
+  <value>Wysokie</value>
   <comment>High</comment>
 </data>
 <data name="Enum.FogQuality.Medium" xml:space="preserve">
-  <value>Medium</value>
+  <value>Średnie</value>
   <comment>Medium</comment>
 </data>
 <data name="Enum.FogQuality.Low" xml:space="preserve">
-  <value>Low</value>
+  <value>Niskie</value>
   <comment>Low</comment>
 </data>
 <data name="Enum.EffectsQuality.High" xml:space="preserve">
-  <value>High</value>
+  <value>Wysokie</value>
   <comment>High</comment>
 </data>
 <data name="Enum.EffectsQuality.Medium" xml:space="preserve">
-  <value>Medium</value>
+  <value>Średnie</value>
   <comment>Medium</comment>
 </data>
 <data name="Enum.EffectsQuality.Low" xml:space="preserve">
-  <value>Low</value>
+  <value>Niskie</value>
   <comment>Low</comment>
 </data>
 <data name="Enum.GibEffects.Low" xml:space="preserve">
-  <value>Low</value>
+  <value>Niskie</value>
   <comment>Low</comment>
 </data>
 <data name="Enum.GibEffects.Medium" xml:space="preserve">
-  <value>Medium</value>
+  <value>Średnie</value>
   <comment>Medium</comment>
 </data>
 <data name="Enum.GibEffects.High" xml:space="preserve">
-  <value>High</value>
+  <value>Wysokie</value>
   <comment>High</comment>
 </data>
 <data name="Enum.FrameQueueLimit.Unlimited" xml:space="preserve">
-  <value>Unlimited</value>
+  <value>Nieograniczony</value>
   <comment>Unlimited</comment>
 </data>
 <data name="Enum.FrameQueueLimit.OneFrame" xml:space="preserve">
-  <value>One Frame</value>
+  <value>Jedna klatka</value>
   <comment>One Frame</comment>
 </data>
 <data name="Enum.FrameQueueLimit.None" xml:space="preserve">
-  <value>None</value>
+  <value>Żadny</value>
   <comment>None</comment>
 </data>
 <data name="Enum.HdrFormat.Auto" xml:space="preserve">
@@ -552,15 +552,15 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Off</comment>
 </data>
 <data name="Enum.AmbientOcclusionQuality.High" xml:space="preserve">
-  <value>High</value>
+  <value>Wysokie</value>
   <comment>High</comment>
 </data>
 <data name="Enum.AmbientOcclusionQuality.Medium" xml:space="preserve">
-  <value>Medium</value>
+  <value>Średnie</value>
   <comment>Medium</comment>
 </data>
 <data name="Enum.AmbientOcclusionQuality.Low" xml:space="preserve">
-  <value>Low</value>
+  <value>Niskie</value>
   <comment>Low</comment>
 </data>
 <data name="Enum.BelowFloorsQuality.Ultra" xml:space="preserve">
@@ -568,27 +568,27 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Ultra</comment>
 </data>
 <data name="Enum.BelowFloorsQuality.High" xml:space="preserve">
-  <value>High</value>
+  <value>Wysokie</value>
   <comment>High</comment>
 </data>
 <data name="Enum.BelowFloorsQuality.Medium" xml:space="preserve">
-  <value>Medium</value>
+  <value>Średnie</value>
   <comment>Medium</comment>
 </data>
 <data name="Enum.BelowFloorsQuality.Low" xml:space="preserve">
-  <value>Low</value>
+  <value>Niskie</value>
   <comment>Low</comment>
 </data>
 <data name="Enum.DecalMemory.Low" xml:space="preserve">
-  <value>Low</value>
+  <value>Niskie</value>
   <comment>Low</comment>
 </data>
 <data name="Enum.DecalMemory.Normal" xml:space="preserve">
-  <value>Normal</value>
+  <value>Normalne</value>
   <comment>Normal</comment>
 </data>
 <data name="Enum.DecalMemory.High" xml:space="preserve">
-  <value>High</value>
+  <value>Wysokie</value>
   <comment>High</comment>
 </data>
 <data name="Enum.DecalMemory.Ultra" xml:space="preserve">
