@@ -596,91 +596,91 @@ The file is looked up beside this language file first, then under the game's Con
   <comment>Ultra</comment>
 </data>
 <data name="Chat.Ignite" xml:space="preserve">
-  <value>{ACTOR} lights the {TARGET} with the {USED}.</value>
+  <value>{ACTOR} podpala {TARGET} przy pomocy {USED}.</value>
   <comment>{ACTOR} lights the {TARGET} with the {USED}.</comment>
 </data>
 <data name="Chat.Weld" xml:space="preserve">
-  <value>{ACTOR} welds the {TARGET} shut.</value>
+  <value>{ACTOR} zaspawuje {TARGET}.</value>
   <comment>{ACTOR} welds the {TARGET} shut.</comment>
 </data>
 <data name="Chat.Unweld" xml:space="preserve">
-  <value>{ACTOR} cuts the {TARGET} open.</value>
+  <value>{ACTOR} rozcina {TARGET}.</value>
   <comment>{ACTOR} cuts the {TARGET} open.</comment>
 </data>
 <data name="Chat.Anchor" xml:space="preserve">
-  <value>{ACTOR} anchors the {TARGET} into place.</value>
+  <value>{ACTOR} mocuje {TARGET} na miejscu.</value>
   <comment>{ACTOR} anchors the {TARGET} into place.</comment>
 </data>
 <data name="Chat.TankRefill" xml:space="preserve">
-  <value>{ACTOR} refills the {USED} from the {TARGET}.</value>
+  <value>{ACTOR} uzupełnia {USED} z {TARGET}.</value>
   <comment>{ACTOR} refills the {USED} from the {TARGET}.</comment>
 </data>
 <data name="Chat.TankRefillDeny" xml:space="preserve">
-  <value>You can't mix fuel mixtures!</value>
+  <value>Nie możesz mieszać mieszanek paliwa!</value>
   <comment>You can't mix fuel mixtures!</comment>
 </data>
 <data name="Chat.Unanchor" xml:space="preserve">
-  <value>{ACTOR} unanchors the {TARGET}.</value>
+  <value>{ACTOR} odmocowywuje {TARGET}.</value>
   <comment>{ACTOR} unanchors the {TARGET}.</comment>
 </data>
 <data name="Chat.CableSlack" xml:space="preserve">
-  <value>The cable to the {TARGET} goes slack.</value>
+  <value>Kabel prowadzący do {TARGET} luźnieje.</value>
   <comment>The cable to the {TARGET} goes slack.</comment>
 </data>
 <data name="Chat.ApcNotAreaController" xml:space="preserve">
-  <value>That APC does not control this area.</value>
+  <value>Ten sterownik zasilania obszaru nie kontroluje tego terenu.</value>
   <comment>That APC does not control this area.</comment>
 </data>
 <data name="Chat.ApcGeneratorsFull" xml:space="preserve">
-  <value>That APC has all the generators it can take.</value>
+  <value>Ten sterownik zasilania ma już maksymalną liczbę generatorów.</value>
   <comment>That APC has all the generators it can take.</comment>
 </data>
 <data name="Chat.CablePickupOutOfReach" xml:space="preserve">
-  <value>Pick the cable up where it lies.</value>
+  <value>Podnieś kabel z miejsca, w którym leży.</value>
   <comment>Pick the cable up where it lies.</comment>
 </data>
 <data name="Chat.CableCoilFull" xml:space="preserve">
-  <value>Your coil has no room to take the cable back.</value>
+  <value>Na szpuli nie ma już miejsca na ten kabel.</value>
   <comment>Your coil has no room to take the cable back.</comment>
 </data>
 <data name="Chat.HoseSlack" xml:space="preserve">
-  <value>The hose to the {TARGET} pulls free.</value>
+  <value>Wąż prowadzący do {TARGET} odłącza się.</value>
   <comment>The hose to the {TARGET} pulls free.</comment>
 </data>
 <data name="Chat.HoseEndUnanchored" xml:space="preserve">
-  <value>Wrench it down first.</value>
+  <value>Najpierw dokręć to kluczem.</value>
   <comment>Wrench it down first.</comment>
 </data>
 <data name="Chat.HoseTankFull" xml:space="preserve">
-  <value>That tank has no free outlet.</value>
+  <value>Ten zbiornik nie ma wolnego odpływu.</value>
   <comment>That tank has no free outlet.</comment>
 </data>
 <data name="Chat.HoseOutOfReach" xml:space="preserve">
-  <value>Pick the hose up where it lies.</value>
+  <value>Podnieś wąż z miejsca, w którym leży.</value>
   <comment>Pick the hose up where it lies.</comment>
 </data>
 <data name="Chat.HoseTooFar" xml:space="preserve">
-  <value>The hose will not reach that far.</value>
+  <value>Wąż nie sięgnie tak daleko.</value>
   <comment>The hose will not reach that far.</comment>
 </data>
 <data name="Chat.HoseRunBlocked" xml:space="preserve">
-  <value>The hose cannot run that way.</value>
+  <value>Wąż nie może iść w tę stronę.</value>
   <comment>The hose cannot run that way.</comment>
 </data>
 <data name="Chat.HoseStackFull" xml:space="preserve">
-  <value>Your hose stack has no room to take the hose back.</value>
+  <value>Na stosie nie ma już miejsca na ten wąż.</value>
   <comment>Your hose stack has no room to take the hose back.</comment>
 </data>
 <data name="Chat.HoseFeeding" xml:space="preserve">
-  <value>Fuel runs down the hose.</value>
+  <value>Paliwo spływa wężem.</value>
   <comment>Fuel runs down the hose.</comment>
 </data>
 <data name="Chat.HoseNoFlow" xml:space="preserve">
-  <value>The hose is on, but nothing flows from that tank.</value>
+  <value>Wąż jest włączony, ale nie nie płynie z tego zbiornika.</value>
   <comment>The hose is on, but nothing flows from that tank.</comment>
 </data>
 <data name="Chat.HoseTankAboard" xml:space="preserve">
-  <value>A tank aboard a vehicle takes no hose.</value>
+  <value>Zbiornik w tym pojeździe nie przyjmuje węże.</value>
   <comment>A tank aboard a vehicle takes no hose.</comment>
 </data>
 <data name="Chat.TentRoomsFull" xml:space="preserve">
